@@ -5,6 +5,8 @@ I'm Asif Ali, a passionate developer with a love for creating amazing web experi
 ## Skills
 
 Here are some of the technologies I work with:
+<span> 
+
 
   ![HTML](https://img.shields.io/badge/-HTML-orange)
   
@@ -28,6 +30,9 @@ Here are some of the technologies I work with:
   
 
   ![Figma](https://img.shields.io/badge/-Figma-purple)
+</span>
+
+
 
 ## Let's Connect!
 
