@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello Everyone 👋
 
 I'm Asif Ali, a passionate developer with a love for creating amazing web experiences. Welcome to my GitHub profile! 👨‍💻
 
@@ -15,8 +15,8 @@ I'm Asif Ali, a passionate developer with a love for creating amazing web experi
 
 ## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-profile-url)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](your-twitter-profile-url)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=portfolio&logoColor=white)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/asifalimzn)
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=portfolio&logoColor=white)](https://asif-ali-portfolio.vercel.app/)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Happy coding! 🚀
